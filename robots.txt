@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eciales.github.io/sitemap.html.gz
+Sitemap: https://eciales.github.io/app/sitemap.html.gz
+Sitemap: https://eciales.github.io/assets/sitemap.html.gz
+Sitemap: https://eciales.github.io/css/sitemap.html.gz
+Sitemap: https://eciales.github.io/includes/sitemap.html.gz
+Sitemap: https://eciales.github.io/item/sitemap.html.gz
+Sitemap: https://eciales.github.io/src/sitemap.html.gz
